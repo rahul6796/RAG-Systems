@@ -1,0 +1,11 @@
+langchain
+streamlit
+langchain-core
+langchain-community
+sse_starlette
+beautifulsoup4
+langchain-groq
+bs4 
+groq
+
+
